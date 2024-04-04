@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyam1204
 - 👀 I’m interested in Robotics, Cognitive AI and data analytics in Sports
-- 🌱 I’m currently learning Tensorflow (ZeroToMastery)
+- 🌱 I’m currently learning Masters in Robotics & AI in Germany. 
 - 💞️ I’m looking to collaborate on Python and Tensorflow projects
 - 📫 How to reach me: Email- priyammishra1204@gmail.com
 
